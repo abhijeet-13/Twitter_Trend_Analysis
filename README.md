@@ -1,4 +1,4 @@
-# twitter_trend_analysis
+# Twitter Trend Analysis
 Influencer detection on Twitter and real-time current trend analysis using twitter4j and Spark
 
 This work was done as part of the final project in a course on Big-Data Analytics at the University of Texas at Dallas, by the following contributors:
